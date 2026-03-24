@@ -1,8 +1,8 @@
 # Exercise 06 Server-Client Application in C
 
-Jade Brian Terwel
-CMSC 137 AB-2L
-2nd Semester 2025-2026
+- Jade Brian Terwel
+- CMSC 137 AB-2L
+- 2nd Semester 2025-2026
 
 # Tadbalik
 
